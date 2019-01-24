@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{C4321956-347E-46EB-92D5-1C6913F2D533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygon.Library", "Polygon.Library\Polygon.Library.csproj", "{B06E7066-886C-495F-BFB7-8BF56BB3DEDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4321956-347E-46EB-92D5-1C6913F2D533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4321956-347E-46EB-92D5-1C6913F2D533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4321956-347E-46EB-92D5-1C6913F2D533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06E7066-886C-495F-BFB7-8BF56BB3DEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06E7066-886C-495F-BFB7-8BF56BB3DEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06E7066-886C-495F-BFB7-8BF56BB3DEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06E7066-886C-495F-BFB7-8BF56BB3DEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
